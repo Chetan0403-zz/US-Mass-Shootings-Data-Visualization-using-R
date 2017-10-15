@@ -1,3 +1,2 @@
 # US-Mass-Shootings: Data Visualization using R ShinyApps
-
-![alt text](https://github.com/Chetan0403/US-Mass-Shootings-EDA---An-affair-with-Rshiny/pie.png)
+![Alt text](/relative/path/to/pie.jpg?raw=true "Optional Title")
