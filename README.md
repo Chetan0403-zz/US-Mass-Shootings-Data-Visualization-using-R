@@ -1,1 +1,2 @@
-# US-Mass-Shootings-EDA---An-affair-with-Rshiny
+# US-Mass-Shootings: Data Visualization using R ShinyApps
+
