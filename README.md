@@ -25,6 +25,7 @@ A higher proportion of shootings are concentrated on the North-east and the East
 ### D. Where do these shootings mostly occur?
 A chilling analysis of the words associated with these shootings, very unfortunately, reveals that many of the shootings happen in schools, universities, and colleges. Sad, but true
 ![Trends](figures/Word-cloud.png)
+
 These are some of the major insights. In summmary - 
 1. Shootings and # of victims have risen recently, although
 2. Avg. # of casualties per shooting seems to be on a downward trend (ignoring the Oct 02 Vegas shooting)
