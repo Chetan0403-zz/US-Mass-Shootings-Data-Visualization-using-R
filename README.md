@@ -7,7 +7,7 @@ All the codes for visuals have been included in the R script. Sooner, than later
 ### A. Overall trends: Number of shootings and victims from 1970s to today
 
 Pretty evident from the trend that over the last decade or two, number of incidents have been on the rise.
-![Trends](figures/Trend-shootings-victims v2.png)
+![Trends](figures/Trend-shootings-victims-v2.png)
 
 
 
