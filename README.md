@@ -19,3 +19,17 @@ Plot of average casualties caused by race. Whites cause the most casualties (eve
 ![Trends](figures/Race-v2.png)
 
 ### C. Geography wise spread
+A higher proportion of shootings are concentrated on the North-east and the East coast of US, with not many on the West coast, and very few in the Mid or Mid-West
+![Trends](figures/Geography.png)
+(coming up: analysis by states)
+
+### D. Where do these shootings mostly occur?
+A chilling analysis of the words associated with these shootings, very unfortunately, reveals that many of the shootings happen in schools, universities, and colleges. Sad, but true
+![Trends](figures/Word-cloud.png)
+
+These are some of the major insights. In summmary - 
+1. Shootings and # of victims have risen recently, although
+2. Avg. # of casualties per shooting seems to be on a downward trend (ignoring the Oct 02 Vegas shooting)
+3. White shooters comprise the pre-dominant category while the average casualties caused by them is on the decline
+4. These shoots are observed a lot more on the East coast than on any other part of the US, and
+5. Schools, Universities, Colleges are the main centers where these incidents have been reported
