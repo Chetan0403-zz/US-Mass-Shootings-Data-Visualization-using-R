@@ -18,3 +18,4 @@ A decade-wise plot of proportion of shooters by their race reveals some very int
 Plot of average casualties caused by race. Whites cause the most casualties (even Asians, but % of shootings caused by Asians is very low). However, the average casualty count has declined for white shooters, while for other races it has remained constant.
 ![Trends](figures/Race-v2.png)
 
+### C. Geography wise spread
