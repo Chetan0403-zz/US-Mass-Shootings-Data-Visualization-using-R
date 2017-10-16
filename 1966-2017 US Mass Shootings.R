@@ -42,7 +42,6 @@ data$gender_clean <- ifelse(grepl("M|Male", data$Gender), "Male",
                           ifelse(grepl("F|Female", data$Gender), "Female",
                                  ifelse(grepl("M/F|Male/Female", data$Gender), "Both", "Unknown")))
 
-
 # Making dates in date datatype and extracting month and year
 data$Date <- as.Date(data$Date, format = "%m/%d/%Y")
 data$year <- as.Date(paste0(year(data$Date),"-01-01"),format="%Y-%m-%d")
@@ -54,7 +53,6 @@ data$decade <- ifelse(data$year <= '1980-01-01', "1970s",
                              ifelse(data$year <= '2000-01-01', "1990s",
                                     ifelse(data$year <= '2010-01-01', "2000s",
                                            ifelse(data$year <= '2020-01-01', "2010s","2020s")))))
-
 
 ## Plots
 #1. Plot of # number of shootings by year and total victims (check box for fatality type)
@@ -73,7 +71,6 @@ ggplot(data = temp %>%
   ggtitle("Total # shootings, 1966-2017") +
   ylab("Total # shootings") + theme(text = element_text(family="Palatino Linotype"),
       legend.key = element_blank())
-
 
 ggplot() + 
   geom_bar(data = temp %>% 
@@ -185,4 +182,3 @@ Corpus <- tm_map(Corpus, removeWords, stopwords('english'))
 Corpus <- tm_map(Corpus, removeWords, 'shooting')
 wordcloud(Corpus,  scale=c(5,0.5), max.words = 200, use.r.layout=FALSE, 
           rot.per = 0.3, random.order = FALSE, colors=brewer.pal(8, 'Dark2'))
-
