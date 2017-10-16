@@ -6,7 +6,7 @@ All the codes for visuals have been included in the R script. Sooner, than later
 
 ### A. Overall trends: Number of shootings and victims from 1970s to today
 
-Pretty evident from the trend that over the last decade or two, number of incidents have been on the rise.
+Pretty evident from the trend that over the last decade or two, number of incidents have been on the rise. The spike in 2017 comes from the latest shooting of October 02 in Las Vegas
 ![Trends](figures/Trend-shootings-victims-v2.png)
 
 
